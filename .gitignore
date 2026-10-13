@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (download from the official sources, see README)
+*.parquet
+*.shp
+*.dbf
+*.shx
+*.prj
+census2021/
+ml_outputs_optimal_joseph/
+
+# OS
+.DS_Store
+Thumbs.db
